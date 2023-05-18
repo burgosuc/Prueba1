@@ -1,0 +1,84 @@
+
+.imagen-cuppon{
+  width: 86px;
+  height: 25px;
+}
+.card-title{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: left;
+  line-height: 24px;
+  color: #212529;
+}
+.card-text{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+  line-height: 19px;
+  color: #707070;
+  margin: 0px;
+}
+.direccion{
+  padding-top: 2px;
+  margin: 0;
+  color: #707070;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 13px;
+  text-align: left;
+  line-height: 15px;
+}
+.precio{
+  color: #707070;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+  line-height: 19px;
+  margin: 0;
+}
+.precio-oferta{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: left;
+  line-height: 24px;
+  color: #28a745;
+}
+.logo-footer{
+  width: 82px;
+  height: 24px;
+}
+.form-label{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 21px;
+  text-align: left;
+  line-height: 24px;
+}
+.form-control{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+  line-height: 19px;
+  color: #707070;
+}
+.btn{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  text-align: center;
+  line-height: 24px;
+  color: #212529;
+}
+.texto-footer{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: center;
+  line-height: 19px;
+  color: #707070;
+}
